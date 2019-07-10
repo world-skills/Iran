@@ -1,2 +1,3 @@
-# World Skills Iran - Web Programming
+# World Skills Iran
 
+- Web Design and Development
